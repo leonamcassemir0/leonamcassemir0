@@ -26,8 +26,9 @@ Tecnologias que tenho domínio e utilizo em meus projetos:
 </div>
 
 ## 📂 **Projetos**  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=Machine-Learning)](https://github.com/leonamcassemir0/Machine-Learning)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=iris_flower_classifier)](https://github.com/leonamcassemir0/iris_flower_classifier)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=software-engineer)](https://github.com/leonamcassemir0/software-engineer)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=visualg)](https://github.com/leonamcassemir0/visualg)
 
 *Veja mais em meus [repositórios](https://github.com/leonamcassemir0?tab=repositories).*
 
