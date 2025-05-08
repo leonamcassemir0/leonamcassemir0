@@ -6,9 +6,9 @@ Cursando Engenharia de Software e especializando na área de dados. Apaixonado p
 Possuo conhecimento em Excel, PowerBI, Python e MySQL, o que permite extrair, tratar e analisar banco de dados. Possuo, Também, uma base sólida em estatística e álgebra linear. 
 
 ## 📂 **Projetos**  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=iris-flower-classifier)](https://github.com/leonamcassemir0/projeto-vendas)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=relatorio-vendas)](https://github.com/leonamcassemir0/relatorio-vendas)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=software-engineer)](https://github.com/leonamcassemir0/software-engineer)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=visualg)](https://github.com/leonamcassemir0/visualg)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=iris-flower-classifier)](https://github.com/leonamcassemir0/iris-flower-classifier)
 
 *Veja mais em meus [repositórios](https://github.com/leonamcassemir0?tab=repositories).*
 
