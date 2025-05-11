@@ -2,8 +2,8 @@
 📚 *Engenharia de Software | Análise de Dados | Inteligência Artificial*
 
 ## 📖 **Sobre Mim**  
-Cursando Engenharia de Software e especializando na área de dados. Apaixonado por aprender, busco constantemente melhorar minhas habilidades e adicionar novas na minha "caixa de ferramentas". 
-Possuo conhecimento em Excel, PowerBI, Python e MySQL, o que permite extrair, tratar e analisar banco de dados. Possuo, Também, uma base sólida em estatística e álgebra linear. 
+Sou o Leonam, tenho 23 anos e estou indo para o 4º período em Engenharia de Software. No meu tempo livre gosto de ler, jogar vôlei e praticar Jiu-Jitsu. 
+Estou me especializando na área de dados, por isso estou buscando conhecimentos na área. Possuo conhecimentos em Excel, PowerBI, Estatística, Python e R, o que permite extrair, organizar e analisar banco de dados. Além disso, possuo conhecimentos básicos em engenharia de prompt, o que me permite aliar minhas análises com inteligência artificial.
 
 ## 📂 **Projetos**  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=relatorio-vendas)](https://github.com/leonamcassemir0/relatorio-vendas)
