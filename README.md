@@ -1,5 +1,5 @@
 # 👨‍💻 **Leonam Cassemiro**  
-📚 *Engenharia de Software | Análise de Dados | Inteligência Artificial*
+📚 *Engenharia de Software | Análise de Dados | Ciência de dados | Inteligência Artificial*
 
 ## 📖 **Sobre Mim**  
 Sou o Leonam, tenho 23 anos e estou indo para o 4º período em Engenharia de Software. </br>
