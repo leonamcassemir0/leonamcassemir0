@@ -2,11 +2,11 @@
 📚 *Engenharia de Software | Ciência de dados | Inteligência Artificial*
 
 
-## 📂 **Projetos**  
+## 📂 **Projetos**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=admissao-faculdade)](https://github.com/leonamcassemir0/admissao-faculdade)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=relatorio-vendas)](https://github.com/leonamcassemir0/relatorio-vendas)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=projeto-amazon)](https://github.com/leonamcassemir0/projeto-amazon)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=software-engineer)](https://github.com/leonamcassemir0/software-engineer)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonamcassemir0&repo=admission-faculdade)](https://github.com/leonamcassemir0/admission-faculdade)
 
 *Veja mais em meus [repositórios](https://github.com/leonamcassemir0?tab=repositories).*
 
